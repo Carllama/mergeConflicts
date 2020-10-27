@@ -1,2 +1,2 @@
 var num = 50;
-var thruth = "Hello world";
+var thruth = "Hello sad sad planet";
